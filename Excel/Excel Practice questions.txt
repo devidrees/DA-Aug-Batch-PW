@@ -1,0 +1,19 @@
+1. Using VLOOKUP, find the Total Sales amount for Order ID ORD-2013020.
+
+2. Write a VLOOKUP formula to search for Order ID ORD-2013042 and return the Category of the item ordered.
+
+3. Using INDEX and MATCH, locate Order ID ORD-2013075 and find out which City the order was placed in.
+
+4. Create an INDEX and MATCH formula that looks up a specific Customer Name (in Column C) and successfully returns their Customer ID (in Column B) by looking to the left.
+
+5. Use XLOOKUP to find the Ship Date for Order ID ORD-2013115.
+
+6. Write an XLOOKUP formula to search for Order ID ORD-2013160 and return its Order Status.
+
+7. Use XLOOKUP to search for a non-existent order number, ORD-8888888, to find its Profit. Configure the formula to display the exact text "Not Found" instead of an error message.
+
+8. Set up a cell where a user can type any Customer ID. Write a lookup formula (your choice of function) that automatically returns the corresponding Country for that ID.
+
+9. Identify a Customer ID that appears multiple times in your dataset. Write an XLOOKUP formula that searches from the bottom to the top, returning the Order Date of their most recent purchase.
+
+10. Write a two-way lookup using INDEX and two MATCH functions. Search vertically down the rows for ORD-2013195 and horizontally across the headers for Unit Cost to return the intersecting value.

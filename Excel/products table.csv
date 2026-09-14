@@ -1,0 +1,19 @@
+﻿Product,Category,Price,Units sold,Region,Revenue,,,,,
+Laptop,Electronics,1000,200,North,200000,,,,,
+Tablet,Electronics,500,150,South,75000,,,,,
+Smartphone,Electronics,800,300,East,240000,,,,,
+Desktop,Electronics,1200,100,West,120000,,,,,
+Monitor,Accessories,300,400,North,120000,,,,,
+Keyboard,Accessories,50,600,South,30000,,,,,
+Mouse,Accessories,20,700,East,14000,,,,,
+Printer,Electronics,150,50,West,7500,,,,,
+Scanner,Electronics,200,40,North,8000,,,,,
+Camera,Electronics,400,80,South,32000,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Product,Laptop,Tablet,Smartphone,Desktop,Monitor,Keyboard,Mouse,Printer,Scanner,Camera
+Category,Electronics,Electronics,Electronics,Electronics,Accessories,Accessories,Accessories,Electronics,Electronics,Electronics
+Price,1000,500,800,1200,300,50,20,150,200,400
+Units sold,200,150,300,100,400,600,700,50,40,80
+Region,North,South,East,West,North,South,East,West,North,South
+Revenue,200000,75000,240000,120000,120000,30000,14000,7500,8000,32000

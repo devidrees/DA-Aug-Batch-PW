@@ -1,0 +1,201 @@
+Order ID,Customer ID,Customer Name,Region,Country,State,City,Category,Order Date,Ship Date,Order Status,Unit Price,Quantity,Total Sales,Unit Cost,Total Cost,Profit
+ORD-2013027,CUST-1905,Joseph Jones,EMEA,Germany,Bavaria,Nuremberg,Furniture,2013-01-14,2013-01-23,Delivered,353.57,22,7778.54,287.93,6334.46,1444.08
+ORD-2013199,CUST-1650,Barbara Garcia,APAC,Australia,New South Wales,Sydney,Software,2013-02-12,2013-02-17,Delivered,612.66,4,2450.64,281.6,1126.4,1324.24
+ORD-2013122,CUST-1947,Sarah Davis,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Electronics,2013-02-13,2013-02-15,Delivered,184.29,5,921.45,119.23,596.15,325.3
+ORD-2013189,CUST-1216,Charles Hernandez,NA,United States,California,Los Angeles,Furniture,2013-02-22,2013-03-01,Processing,68.35,5,341.75,27.62,138.1,203.65
+ORD-2013101,CUST-1849,Karen Lopez,NA,United States,New York,New York City,Office Supplies,2013-03-04,2013-03-08,Processing,617.37,25,15434.25,317.94,7948.5,7485.75
+ORD-2013077,CUST-1080,Sarah Martinez,APAC,Japan,Osaka,Osaka,Electronics,2013-03-08,2013-03-18,Cancelled,668.78,29,19394.62,353.64,10255.56,9139.06
+ORD-2013045,CUST-1081,Linda Brown,LATAM,Mexico,Jalisco,Guadalajara,Software,2013-04-14,2013-04-28,Cancelled,97.85,12,1174.2,67.13,805.56,368.64
+ORD-2013081,CUST-1094,Richard Brown,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2013-04-25,2013-04-30,Cancelled,304.34,24,7304.16,213.82,5131.68,2172.48
+ORD-2013103,CUST-1081,Linda Brown,NA,Canada,Ontario,Ottawa,Electronics,2013-06-03,2013-06-11,Delivered,466.97,19,8872.43,271.77,5163.63,3708.8
+ORD-2013037,CUST-1686,William Williams,NA,United States,New York,Buffalo,Software,2013-06-10,2013-06-24,Cancelled,19.63,12,235.56,10.49,125.88,109.68
+ORD-2013065,CUST-1733,Sarah Wilson,APAC,Australia,Victoria,Melbourne,Furniture,2013-08-25,2013-09-05,Processing,258.94,1,258.94,167.93,167.93,91.01
+ORD-2013070,CUST-1947,Sarah Davis,LATAM,Mexico,Jalisco,Guadalajara,Office Supplies,2013-10-31,2013-11-03,Shipped,701.24,15,10518.6,311.96,4679.4,5839.2
+ORD-2013083,CUST-1849,Karen Lopez,LATAM,Brazil,São Paulo,São Paulo,Software,2013-11-01,2013-11-06,Shipped,91.3,29,2647.7,58.61,1699.69,948.01
+ORD-2013159,CUST-1650,Barbara Garcia,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2013-12-11,2013-12-16,Delivered,740.35,21,15547.35,381.58,8013.18,7534.17
+ORD-2013186,CUST-1591,Michael Williams,EMEA,Germany,Berlin,Berlin,Furniture,2014-01-10,2014-01-20,Processing,27.73,18,499.14,22.76,409.68,89.46
+ORD-2013073,CUST-1238,Thomas Martin,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2014-01-12,2014-01-18,Delivered,296.39,14,4149.46,137.97,1931.58,2217.88
+ORD-2013180,CUST-1271,Robert Davis,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Software,2014-01-20,2014-01-26,Delivered,561.6,14,7862.4,262.35,3672.9,4189.5
+ORD-2013148,CUST-1234,Mary Hernandez,LATAM,Brazil,São Paulo,Campinas,Office Supplies,2014-02-03,2014-02-04,Cancelled,484.05,27,13069.35,336.13,9075.51,3993.84
+ORD-2013099,CUST-1762,Sarah Moore,NA,United States,California,Los Angeles,Electronics,2014-02-12,2014-02-23,Delivered,362.84,14,5079.76,224.43,3142.02,1937.74
+ORD-2013033,CUST-1238,Thomas Martin,LATAM,Brazil,São Paulo,Campinas,Furniture,2014-02-16,2014-02-25,Shipped,373.32,26,9706.32,227.39,5912.14,3794.18
+ORD-2013086,CUST-1027,Sarah Miller,LATAM,Brazil,São Paulo,São Paulo,Office Supplies,2014-02-19,2014-03-04,Processing,791.22,26,20571.72,517.51,13455.26,7116.46
+ORD-2013090,CUST-1094,Richard Brown,NA,Canada,British Columbia,Vancouver,Software,2014-05-14,2014-05-22,Cancelled,553.59,16,8857.44,398.91,6382.56,2474.88
+ORD-2013127,CUST-1714,Susan Hernandez,LATAM,Mexico,Jalisco,Guadalajara,Software,2014-06-01,2014-06-13,Shipped,245.35,2,490.7,185.48,370.96,119.74
+ORD-2013089,CUST-1692,Sarah Williams,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Software,2014-06-05,2014-06-13,Delivered,417.89,4,1671.56,252.16,1008.64,662.92
+ORD-2013006,CUST-1746,Linda Garcia,LATAM,Brazil,São Paulo,São Paulo,Electronics,2014-06-09,2014-06-15,Processing,476.93,1,476.93,206.01,206.01,270.92
+ORD-2013091,CUST-1746,Linda Garcia,NA,United States,New York,New York City,Office Supplies,2014-06-23,2014-06-26,Delivered,314.01,20,6280.2,200.57,4011.4,2268.8
+ORD-2013072,CUST-1046,Linda Martinez,LATAM,Mexico,Nuevo León,Monterrey,Office Supplies,2014-07-15,2014-07-19,Processing,601.21,14,8416.94,505.17,7072.38,1344.56
+ORD-2013007,CUST-1692,Sarah Williams,EMEA,United Kingdom,England,Manchester,Furniture,2014-08-04,2014-08-13,Delivered,540.15,7,3781.05,347.13,2429.91,1351.14
+ORD-2013183,CUST-1284,Robert Miller,NA,Canada,British Columbia,Vancouver,Furniture,2014-08-20,2014-08-24,Cancelled,178.98,30,5369.4,98.41,2952.3,2417.1
+ORD-2013198,CUST-1271,Robert Davis,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Office Supplies,2014-08-26,2014-08-28,Processing,313.3,26,8145.8,214.69,5581.94,2563.86
+ORD-2013071,CUST-1473,Richard Rodriguez,NA,United States,New York,New York City,Office Supplies,2014-09-05,2014-09-13,Delivered,504.26,13,6555.38,349.16,4539.08,2016.3
+ORD-2013115,CUST-1701,David Johnson,EMEA,United Kingdom,England,London,Electronics,2014-09-25,2014-09-30,Shipped,534.61,29,15503.69,398.2,11547.8,3955.89
+ORD-2013035,CUST-1549,Patricia Gonzalez,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Office Supplies,2014-09-27,2014-10-09,Processing,228.3,11,2511.3,183.07,2013.77,497.53
+ORD-2013196,CUST-1367,Barbara Martin,LATAM,Mexico,Nuevo León,Monterrey,Office Supplies,2014-10-05,2014-10-14,Shipped,91.68,8,733.44,71.27,570.16,163.28
+ORD-2013074,CUST-1410,William Williams,LATAM,Brazil,São Paulo,São Paulo,Software,2014-10-09,2014-10-19,Processing,405.67,19,7707.73,188.39,3579.41,4128.32
+ORD-2013004,CUST-1849,Karen Lopez,EMEA,United Kingdom,England,London,Software,2014-12-03,2014-12-15,Shipped,782.72,18,14088.96,582.83,10490.94,3598.02
+ORD-2013109,CUST-1228,Robert Brown,NA,Canada,British Columbia,Vancouver,Software,2015-01-10,2015-01-20,Cancelled,470.56,26,12234.56,344.69,8961.94,3272.62
+ORD-2013112,CUST-1046,Linda Martinez,NA,Canada,Ontario,Ottawa,Software,2015-02-14,2015-02-23,Delivered,212.82,28,5958.96,148.01,4144.28,1814.68
+ORD-2013044,CUST-1650,Barbara Garcia,LATAM,Brazil,São Paulo,São Paulo,Office Supplies,2015-04-15,2015-04-27,Shipped,640.04,19,12160.76,481.43,9147.17,3013.59
+ORD-2013053,CUST-1692,Sarah Williams,APAC,India,Maharashtra,Pune,Electronics,2015-04-21,2015-05-05,Delivered,383.48,15,5752.2,212.19,3182.85,2569.35
+ORD-2013126,CUST-1759,William Davis,APAC,Japan,Osaka,Osaka,Office Supplies,2015-04-30,2015-05-13,Processing,49.8,18,896.4,27.51,495.18,401.22
+ORD-2013191,CUST-1216,Charles Hernandez,APAC,Japan,Osaka,Osaka,Furniture,2015-05-27,2015-05-29,Processing,165.67,17,2816.39,85.09,1446.53,1369.86
+ORD-2013009,CUST-1692,Sarah Williams,NA,United States,New York,Buffalo,Furniture,2015-06-15,2015-06-19,Processing,435.98,5,2179.9,257.16,1285.8,894.1
+ORD-2013168,CUST-1270,Mary Anderson,APAC,India,Maharashtra,Mumbai,Office Supplies,2015-08-27,2015-09-04,Processing,333.25,17,5665.25,271.73,4619.41,1045.84
+ORD-2013175,CUST-1650,Barbara Garcia,LATAM,Brazil,São Paulo,Campinas,Software,2015-08-30,2015-09-02,Processing,586.37,8,4690.96,454.83,3638.64,1052.32
+ORD-2013094,CUST-1238,Thomas Martin,APAC,Japan,Tokyo,Tokyo,Office Supplies,2015-09-29,2015-10-06,Cancelled,696.45,24,16714.8,294.7,7072.8,9642.0
+ORD-2013140,CUST-1217,Jessica Gonzalez,EMEA,United Kingdom,Scotland,Edinburgh,Furniture,2015-10-15,2015-10-24,Delivered,144.26,11,1586.86,118.38,1302.18,284.68
+ORD-2013059,CUST-1692,Sarah Williams,EMEA,Germany,Berlin,Berlin,Office Supplies,2015-10-16,2015-10-24,Cancelled,755.0,17,12835.0,485.46,8252.82,4582.18
+ORD-2013021,CUST-1216,Charles Hernandez,NA,Canada,Ontario,Ottawa,Office Supplies,2015-11-11,2015-11-12,Delivered,720.7,26,18738.2,603.58,15693.08,3045.12
+ORD-2013145,CUST-1591,Michael Williams,APAC,India,Karnataka,Bengaluru,Office Supplies,2015-12-08,2015-12-21,Shipped,265.51,15,3982.65,120.84,1812.6,2170.05
+ORD-2013088,CUST-1216,Charles Hernandez,APAC,Japan,Tokyo,Tokyo,Office Supplies,2015-12-16,2015-12-17,Processing,477.25,1,477.25,228.32,228.32,248.93
+ORD-2013078,CUST-1094,Richard Brown,APAC,Japan,Tokyo,Tokyo,Electronics,2016-01-26,2016-02-06,Shipped,257.51,15,3862.65,106.87,1603.05,2259.6
+ORD-2013160,CUST-1947,Sarah Davis,EMEA,United Kingdom,Scotland,Glasgow,Furniture,2016-01-30,2016-02-01,Processing,54.85,29,1590.65,35.05,1016.45,574.2
+ORD-2013156,CUST-1686,William Williams,EMEA,Germany,Berlin,Berlin,Furniture,2016-02-06,2016-02-15,Delivered,798.53,16,12776.48,508.24,8131.84,4644.64
+ORD-2013097,CUST-1849,Karen Lopez,APAC,Australia,New South Wales,Sydney,Software,2016-03-19,2016-03-29,Shipped,126.37,21,2653.77,105.81,2222.01,431.76
+ORD-2013124,CUST-1604,Susan Johnson,NA,Canada,Ontario,Toronto,Software,2016-03-22,2016-03-27,Shipped,497.63,8,3981.04,326.84,2614.72,1366.32
+ORD-2013042,CUST-1228,Robert Brown,NA,United States,California,Los Angeles,Furniture,2016-06-02,2016-06-06,Cancelled,540.53,19,10270.07,446.74,8488.06,1782.01
+ORD-2013036,CUST-1030,John Miller,EMEA,United Kingdom,England,Manchester,Furniture,2016-06-05,2016-06-17,Shipped,340.67,11,3747.37,219.45,2413.95,1333.42
+ORD-2013066,CUST-1030,John Miller,EMEA,United Kingdom,Scotland,Edinburgh,Office Supplies,2016-06-15,2016-06-23,Delivered,341.16,16,5458.56,286.95,4591.2,867.36
+ORD-2013095,CUST-1080,Sarah Martinez,APAC,Australia,New South Wales,Sydney,Software,2016-06-21,2016-07-02,Processing,680.11,12,8161.32,530.77,6369.24,1792.08
+ORD-2013012,CUST-1270,Mary Anderson,LATAM,Mexico,Nuevo León,Monterrey,Office Supplies,2016-06-22,2016-06-26,Processing,775.44,19,14733.36,566.91,10771.29,3962.07
+ORD-2013144,CUST-1379,Barbara Miller,APAC,Australia,New South Wales,Sydney,Software,2016-07-18,2016-07-26,Cancelled,379.59,11,4175.49,255.46,2810.06,1365.43
+ORD-2013034,CUST-1410,William Williams,APAC,Australia,Victoria,Melbourne,Software,2016-07-27,2016-08-08,Cancelled,218.47,8,1747.76,169.96,1359.68,388.08
+ORD-2013043,CUST-1473,Richard Rodriguez,APAC,Australia,New South Wales,Sydney,Electronics,2016-09-03,2016-09-08,Shipped,744.18,19,14139.42,524.5,9965.5,4173.92
+ORD-2013116,CUST-1733,Sarah Wilson,LATAM,Brazil,São Paulo,São Paulo,Software,2016-09-18,2016-09-30,Shipped,337.52,22,7425.44,244.3,5374.6,2050.84
+ORD-2013131,CUST-1591,Michael Williams,APAC,Australia,Victoria,Melbourne,Software,2016-09-27,2016-10-09,Delivered,366.0,24,8784.0,289.7,6952.8,1831.2
+ORD-2013188,CUST-1046,Linda Martinez,APAC,Australia,Victoria,Melbourne,Office Supplies,2016-10-10,2016-10-22,Processing,124.87,18,2247.66,77.39,1393.02,854.64
+ORD-2013137,CUST-1081,Linda Brown,NA,Canada,British Columbia,Vancouver,Office Supplies,2016-11-27,2016-12-10,Processing,110.27,7,771.89,83.41,583.87,188.02
+ORD-2013102,CUST-1591,Michael Williams,NA,United States,New York,Buffalo,Software,2016-12-10,2016-12-13,Processing,407.71,27,11008.17,285.65,7712.55,3295.62
+ORD-2013165,CUST-1027,Sarah Miller,APAC,Japan,Osaka,Osaka,Office Supplies,2017-03-06,2017-03-07,Delivered,460.71,25,11517.75,224.33,5608.25,5909.5
+ORD-2013008,CUST-1905,Joseph Jones,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2017-04-09,2017-04-11,Cancelled,293.12,14,4103.68,178.85,2503.9,1599.78
+ORD-2013076,CUST-1849,Karen Lopez,LATAM,Mexico,Nuevo León,Monterrey,Software,2017-06-20,2017-06-27,Shipped,201.21,19,3822.99,112.99,2146.81,1676.18
+ORD-2013182,CUST-1686,William Williams,EMEA,Germany,Bavaria,Nuremberg,Electronics,2017-07-24,2017-07-30,Cancelled,680.0,3,2040.0,435.9,1307.7,732.3
+ORD-2013177,CUST-1027,Sarah Miller,NA,Canada,Ontario,Toronto,Electronics,2017-08-16,2017-08-18,Shipped,365.46,22,8040.12,261.84,5760.48,2279.64
+ORD-2013195,CUST-1549,Patricia Gonzalez,NA,United States,New York,New York City,Furniture,2017-08-25,2017-09-04,Cancelled,744.17,10,7441.7,352.07,3520.7,3921.0
+ORD-2013056,CUST-1623,Jennifer Moore,APAC,India,Maharashtra,Mumbai,Furniture,2017-08-30,2017-09-10,Delivered,533.44,6,3200.64,270.96,1625.76,1574.88
+ORD-2013040,CUST-1714,Susan Hernandez,NA,Canada,British Columbia,Victoria,Office Supplies,2017-09-30,2017-10-08,Delivered,612.57,13,7963.41,321.73,4182.49,3780.92
+ORD-2013005,CUST-1733,Sarah Wilson,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Furniture,2017-10-02,2017-10-11,Delivered,328.21,22,7220.62,227.27,4999.94,2220.68
+ORD-2013030,CUST-1762,Sarah Moore,APAC,Australia,Victoria,Melbourne,Software,2017-10-17,2017-10-26,Processing,532.2,10,5322.0,336.33,3363.3,1958.7
+ORD-2013011,CUST-1367,Barbara Martin,EMEA,Germany,Berlin,Berlin,Software,2017-10-18,2017-11-01,Shipped,144.24,1,144.24,121.65,121.65,22.59
+ORD-2013051,CUST-1284,Robert Miller,APAC,Japan,Tokyo,Tokyo,Software,2017-11-08,2017-11-20,Delivered,583.8,25,14595.0,371.35,9283.75,5311.25
+ORD-2013169,CUST-1849,Karen Lopez,NA,Canada,British Columbia,Vancouver,Software,2017-12-01,2017-12-04,Processing,372.16,20,7443.2,211.44,4228.8,3214.4
+ORD-2013031,CUST-1269,Charles Wilson,APAC,Japan,Tokyo,Tokyo,Furniture,2018-01-15,2018-01-28,Processing,34.17,8,273.36,28.8,230.4,42.96
+ORD-2013181,CUST-1650,Barbara Garcia,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Furniture,2018-01-21,2018-01-26,Cancelled,733.07,18,13195.26,429.36,7728.48,5466.78
+ORD-2013055,CUST-1849,Karen Lopez,NA,United States,California,San Francisco,Software,2018-01-23,2018-02-05,Cancelled,728.18,10,7281.8,573.13,5731.3,1550.5
+ORD-2013176,CUST-1759,William Davis,APAC,Australia,Victoria,Melbourne,Software,2018-02-25,2018-03-01,Delivered,136.77,7,957.39,112.4,786.8,170.59
+ORD-2013194,CUST-1623,Jennifer Moore,APAC,India,Maharashtra,Mumbai,Software,2018-02-26,2018-03-02,Delivered,51.55,3,154.65,36.5,109.5,45.15
+ORD-2013106,CUST-1234,Mary Hernandez,EMEA,Germany,Berlin,Berlin,Furniture,2018-04-20,2018-04-22,Delivered,169.86,20,3397.2,79.63,1592.6,1804.6
+ORD-2013069,CUST-1216,Charles Hernandez,LATAM,Mexico,Nuevo León,Monterrey,Software,2018-05-11,2018-05-21,Processing,686.97,14,9617.58,288.28,4035.92,5581.66
+ORD-2013184,CUST-1654,Patricia Smith,EMEA,United Kingdom,England,Manchester,Furniture,2018-06-11,2018-06-23,Cancelled,733.37,18,13200.66,399.49,7190.82,6009.84
+ORD-2013047,CUST-1591,Michael Williams,EMEA,United Kingdom,Scotland,Glasgow,Software,2018-06-21,2018-07-04,Cancelled,279.07,16,4465.12,218.49,3495.84,969.28
+ORD-2013060,CUST-1746,Linda Garcia,NA,United States,New York,Buffalo,Electronics,2018-08-14,2018-08-15,Processing,770.1,27,20792.7,606.25,16368.75,4423.95
+ORD-2013141,CUST-1094,Richard Brown,APAC,India,Karnataka,Bengaluru,Office Supplies,2018-08-15,2018-08-19,Processing,505.64,20,10112.8,323.64,6472.8,3640.0
+ORD-2013063,CUST-1379,Barbara Miller,NA,Canada,Ontario,Ottawa,Electronics,2018-08-30,2018-09-05,Cancelled,693.95,27,18736.65,586.15,15826.05,2910.6
+ORD-2013128,CUST-1228,Robert Brown,APAC,Australia,Victoria,Melbourne,Furniture,2018-09-07,2018-09-08,Delivered,295.22,25,7380.5,124.44,3111.0,4269.5
+ORD-2013185,CUST-1080,Sarah Martinez,LATAM,Mexico,Nuevo León,Monterrey,Software,2018-11-13,2018-11-19,Cancelled,92.41,24,2217.84,56.49,1355.76,862.08
+ORD-2013135,CUST-1759,William Davis,EMEA,Germany,Berlin,Berlin,Office Supplies,2018-11-15,2018-11-28,Cancelled,183.44,20,3668.8,96.95,1939.0,1729.8
+ORD-2013157,CUST-1591,Michael Williams,EMEA,Germany,Berlin,Berlin,Software,2018-12-06,2018-12-16,Processing,766.51,9,6898.59,499.1,4491.9,2406.69
+ORD-2013015,CUST-1591,Michael Williams,APAC,Japan,Osaka,Osaka,Furniture,2018-12-16,2018-12-23,Delivered,373.92,30,11217.6,276.08,8282.4,2935.2
+ORD-2013154,CUST-1027,Sarah Miller,LATAM,Mexico,Jalisco,Guadalajara,Furniture,2018-12-16,2018-12-27,Shipped,473.07,6,2838.42,300.83,1804.98,1033.44
+ORD-2013038,CUST-1650,Barbara Garcia,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Software,2019-02-14,2019-02-21,Shipped,320.25,22,7045.5,225.97,4971.34,2074.16
+ORD-2013108,CUST-1746,Linda Garcia,NA,Canada,British Columbia,Victoria,Electronics,2019-03-01,2019-03-11,Delivered,413.26,10,4132.6,251.17,2511.7,1620.9
+ORD-2013164,CUST-1228,Robert Brown,NA,Canada,Ontario,Ottawa,Software,2019-05-21,2019-05-29,Processing,683.08,15,10246.2,357.1,5356.5,4889.7
+ORD-2013162,CUST-1947,Sarah Davis,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2019-05-28,2019-06-08,Shipped,527.05,8,4216.4,337.74,2701.92,1514.48
+ORD-2013146,CUST-1746,Linda Garcia,EMEA,United Kingdom,England,London,Software,2019-07-06,2019-07-13,Processing,770.71,29,22350.59,363.67,10546.43,11804.16
+ORD-2013080,CUST-1410,William Williams,APAC,Japan,Osaka,Osaka,Office Supplies,2019-08-15,2019-08-27,Shipped,382.64,3,1147.92,177.29,531.87,616.05
+ORD-2013123,CUST-1762,Sarah Moore,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2019-10-04,2019-10-06,Processing,344.56,26,8958.56,234.39,6094.14,2864.42
+ORD-2013179,CUST-1905,Joseph Jones,APAC,India,Karnataka,Bengaluru,Furniture,2019-10-09,2019-10-12,Cancelled,250.89,2,501.78,163.21,326.42,175.36
+ORD-2013139,CUST-1947,Sarah Davis,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2020-02-11,2020-02-22,Cancelled,380.68,17,6471.56,211.29,3591.93,2879.63
+ORD-2013158,CUST-1094,Richard Brown,APAC,Australia,New South Wales,Sydney,Office Supplies,2020-02-11,2020-02-19,Delivered,240.91,19,4577.29,169.72,3224.68,1352.61
+ORD-2013121,CUST-1650,Barbara Garcia,NA,Canada,Ontario,Toronto,Office Supplies,2020-02-24,2020-02-26,Processing,123.02,10,1230.2,99.99,999.9,230.3
+ORD-2013104,CUST-1686,William Williams,APAC,Japan,Osaka,Osaka,Software,2020-04-14,2020-04-17,Delivered,84.18,28,2357.04,37.68,1055.04,1302.0
+ORD-2013171,CUST-1217,Jessica Gonzalez,EMEA,France,Île-de-France,Paris,Software,2020-05-11,2020-05-25,Shipped,549.03,23,12627.69,363.69,8364.87,4262.82
+ORD-2013087,CUST-1604,Susan Johnson,EMEA,France,Île-de-France,Paris,Furniture,2020-05-15,2020-05-28,Shipped,232.66,5,1163.3,196.46,982.3,181.0
+ORD-2013187,CUST-1271,Robert Davis,LATAM,Mexico,Jalisco,Guadalajara,Software,2020-05-26,2020-05-30,Processing,406.95,21,8545.95,335.55,7046.55,1499.4
+ORD-2013062,CUST-1701,David Johnson,NA,Canada,British Columbia,Victoria,Electronics,2020-06-23,2020-06-29,Processing,273.9,23,6299.7,170.63,3924.49,2375.21
+ORD-2013153,CUST-1269,Charles Wilson,APAC,Japan,Osaka,Osaka,Software,2020-07-18,2020-07-27,Delivered,387.79,1,387.79,219.4,219.4,168.39
+ORD-2013142,CUST-1234,Mary Hernandez,EMEA,France,Île-de-France,Paris,Electronics,2020-07-28,2020-08-11,Shipped,78.76,21,1653.96,58.83,1235.43,418.53
+ORD-2013151,CUST-1027,Sarah Miller,EMEA,United Kingdom,Scotland,Glasgow,Office Supplies,2020-08-09,2020-08-18,Processing,171.26,17,2911.42,99.44,1690.48,1220.94
+ORD-2013105,CUST-1623,Jennifer Moore,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Office Supplies,2020-08-13,2020-08-17,Processing,74.96,21,1574.16,33.83,710.43,863.73
+ORD-2013048,CUST-1714,Susan Hernandez,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Office Supplies,2020-08-20,2020-08-25,Shipped,420.55,7,2943.85,184.42,1290.94,1652.91
+ORD-2013098,CUST-1030,John Miller,EMEA,Germany,Berlin,Berlin,Office Supplies,2020-08-24,2020-08-27,Delivered,581.45,25,14536.25,478.9,11972.5,2563.75
+ORD-2013100,CUST-1746,Linda Garcia,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2020-09-28,2020-10-05,Delivered,547.4,19,10400.6,338.83,6437.77,3962.83
+ORD-2013026,CUST-1270,Mary Anderson,NA,United States,Texas,Dallas,Office Supplies,2020-10-02,2020-10-14,Cancelled,490.87,17,8344.79,221.89,3772.13,4572.66
+ORD-2013024,CUST-1228,Robert Brown,LATAM,Brazil,São Paulo,Campinas,Furniture,2020-11-04,2020-11-09,Processing,33.58,7,235.06,19.45,136.15,98.91
+ORD-2013113,CUST-1762,Sarah Moore,EMEA,Germany,Bavaria,Munich,Software,2020-11-05,2020-11-10,Processing,482.11,3,1446.33,260.01,780.03,666.3
+ORD-2013022,CUST-1228,Robert Brown,APAC,Japan,Tokyo,Tokyo,Software,2020-12-07,2020-12-20,Processing,741.72,8,5933.76,585.27,4682.16,1251.6
+ORD-2013052,CUST-1080,Sarah Martinez,NA,United States,New York,New York City,Office Supplies,2021-02-04,2021-02-07,Shipped,570.79,5,2853.95,298.77,1493.85,1360.1
+ORD-2013085,CUST-1389,William Anderson,EMEA,Germany,Berlin,Berlin,Office Supplies,2021-02-19,2021-02-21,Delivered,62.53,9,562.77,30.35,273.15,289.62
+ORD-2013133,CUST-1746,Linda Garcia,NA,United States,California,Los Angeles,Software,2021-03-20,2021-03-26,Shipped,490.0,22,10780.0,295.21,6494.62,4285.38
+ORD-2013093,CUST-1238,Thomas Martin,APAC,Australia,Victoria,Melbourne,Software,2021-05-25,2021-05-28,Shipped,86.61,3,259.83,38.28,114.84,144.99
+ORD-2013032,CUST-1269,Charles Wilson,NA,Canada,British Columbia,Vancouver,Software,2021-08-12,2021-08-20,Processing,130.84,23,3009.32,52.66,1211.18,1798.14
+ORD-2013150,CUST-1692,Sarah Williams,EMEA,Germany,Berlin,Berlin,Software,2021-08-31,2021-09-09,Delivered,662.87,20,13257.4,468.11,9362.2,3895.2
+ORD-2013125,CUST-1714,Susan Hernandez,NA,Canada,Ontario,Toronto,Software,2021-10-04,2021-10-18,Shipped,514.0,12,6168.0,264.27,3171.24,2996.76
+ORD-2013039,CUST-1379,Barbara Miller,EMEA,Germany,Bavaria,Munich,Electronics,2021-11-02,2021-11-12,Shipped,519.56,5,2597.8,410.5,2052.5,545.3
+ORD-2013163,CUST-1228,Robert Brown,EMEA,Germany,Bavaria,Munich,Software,2021-11-27,2021-12-10,Processing,750.24,28,21006.72,612.73,17156.44,3850.28
+ORD-2013129,CUST-1046,Linda Martinez,APAC,Japan,Osaka,Osaka,Software,2021-12-21,2022-01-02,Cancelled,281.14,6,1686.84,175.23,1051.38,635.46
+ORD-2013054,CUST-1692,Sarah Williams,APAC,Australia,New South Wales,Sydney,Electronics,2021-12-27,2022-01-04,Shipped,134.11,26,3486.86,87.61,2277.86,1209.0
+ORD-2013166,CUST-1269,Charles Wilson,LATAM,Mexico,Nuevo León,Monterrey,Electronics,2021-12-28,2022-01-08,Processing,785.62,16,12569.92,428.65,6858.4,5711.52
+ORD-2013192,CUST-1081,Linda Brown,APAC,Australia,New South Wales,Sydney,Furniture,2022-02-09,2022-02-17,Processing,250.48,27,6762.96,195.76,5285.52,1477.44
+ORD-2013029,CUST-1284,Robert Miller,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2022-02-09,2022-02-18,Delivered,240.23,14,3363.22,181.04,2534.56,828.66
+ORD-2013132,CUST-1081,Linda Brown,LATAM,Mexico,Jalisco,Guadalajara,Furniture,2022-02-10,2022-02-16,Shipped,127.08,20,2541.6,89.61,1792.2,749.4
+ORD-2013174,CUST-1692,Sarah Williams,NA,Canada,Ontario,Ottawa,Furniture,2022-03-04,2022-03-07,Cancelled,308.95,29,8959.55,176.76,5126.04,3833.51
+ORD-2013023,CUST-1714,Susan Hernandez,LATAM,Brazil,São Paulo,Campinas,Furniture,2022-03-27,2022-04-09,Delivered,139.97,23,3219.31,62.8,1444.4,1774.91
+ORD-2013084,CUST-1650,Barbara Garcia,LATAM,Mexico,Nuevo León,Monterrey,Electronics,2022-04-22,2022-05-03,Cancelled,498.29,9,4484.61,206.65,1859.85,2624.76
+ORD-2013079,CUST-1389,William Anderson,EMEA,United Kingdom,Scotland,Glasgow,Furniture,2022-04-27,2022-04-30,Processing,632.41,29,18339.89,529.43,15353.47,2986.42
+ORD-2013019,CUST-1270,Mary Anderson,LATAM,Mexico,Jalisco,Guadalajara,Office Supplies,2022-07-02,2022-07-16,Shipped,17.78,25,444.5,8.16,204.0,240.5
+ORD-2013130,CUST-1701,David Johnson,APAC,India,Karnataka,Bengaluru,Software,2022-07-10,2022-07-12,Processing,443.2,11,4875.2,197.74,2175.14,2700.06
+ORD-2013058,CUST-1473,Richard Rodriguez,NA,United States,New York,New York City,Furniture,2022-07-15,2022-07-17,Processing,728.1,27,19658.7,337.84,9121.68,10537.02
+ORD-2013092,CUST-1473,Richard Rodriguez,LATAM,Brazil,São Paulo,São Paulo,Furniture,2022-08-25,2022-09-02,Cancelled,281.06,15,4215.9,162.85,2442.75,1773.15
+ORD-2013149,CUST-1947,Sarah Davis,APAC,India,Maharashtra,Mumbai,Office Supplies,2022-09-01,2022-09-04,Delivered,614.63,12,7375.56,258.37,3100.44,4275.12
+ORD-2013178,CUST-1692,Sarah Williams,EMEA,France,Île-de-France,Paris,Furniture,2022-11-05,2022-11-09,Shipped,125.01,10,1250.1,63.18,631.8,618.3
+ORD-2013111,CUST-1030,John Miller,EMEA,United Kingdom,England,Manchester,Furniture,2022-11-09,2022-11-18,Delivered,307.69,10,3076.9,176.72,1767.2,1309.7
+ORD-2013167,CUST-1367,Barbara Martin,NA,Canada,British Columbia,Vancouver,Office Supplies,2023-01-08,2023-01-21,Delivered,252.03,24,6048.72,165.78,3978.72,2070.0
+ORD-2013049,CUST-1686,William Williams,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2023-01-20,2023-02-02,Shipped,245.97,13,3197.61,174.96,2274.48,923.13
+ORD-2013197,CUST-1046,Linda Martinez,LATAM,Mexico,Jalisco,Guadalajara,Furniture,2023-02-08,2023-02-16,Delivered,449.13,13,5838.69,266.93,3470.09,2368.6
+ORD-2013057,CUST-1217,Jessica Gonzalez,NA,United States,California,San Francisco,Software,2023-02-08,2023-02-20,Delivered,40.62,10,406.2,29.17,291.7,114.5
+ORD-2013120,CUST-1234,Mary Hernandez,EMEA,Germany,Bavaria,Munich,Electronics,2023-02-13,2023-02-19,Cancelled,56.81,17,965.77,32.28,548.76,417.01
+ORD-2013136,CUST-1701,David Johnson,EMEA,United Kingdom,England,London,Software,2023-02-21,2023-02-24,Shipped,651.25,28,18235.0,549.63,15389.64,2845.36
+ORD-2013002,CUST-1046,Linda Martinez,NA,Canada,British Columbia,Vancouver,Office Supplies,2023-03-06,2023-03-07,Processing,413.53,4,1654.12,327.41,1309.64,344.48
+ORD-2013075,CUST-1473,Richard Rodriguez,APAC,Australia,Victoria,Melbourne,Furniture,2023-06-09,2023-06-14,Shipped,361.76,12,4341.12,305.49,3665.88,675.24
+ORD-2013138,CUST-1367,Barbara Martin,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Furniture,2023-06-26,2023-07-09,Shipped,66.61,13,865.93,56.61,735.93,130.0
+ORD-2013061,CUST-1271,Robert Davis,NA,Canada,Ontario,Toronto,Software,2023-07-22,2023-07-31,Delivered,157.47,19,2991.93,93.88,1783.72,1208.21
+ORD-2013082,CUST-1271,Robert Davis,LATAM,Mexico,Jalisco,Guadalajara,Office Supplies,2023-07-30,2023-07-31,Processing,523.41,21,10991.61,403.41,8471.61,2520.0
+ORD-2013161,CUST-1094,Richard Brown,NA,United States,New York,Buffalo,Furniture,2023-08-06,2023-08-08,Shipped,772.15,30,23164.5,363.74,10912.2,12252.3
+ORD-2013152,CUST-1228,Robert Brown,NA,United States,California,San Francisco,Software,2023-08-17,2023-08-26,Processing,490.91,17,8345.47,227.24,3863.08,4482.39
+ORD-2013190,CUST-1234,Mary Hernandez,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2023-12-11,2023-12-12,Cancelled,24.3,17,413.1,17.62,299.54,113.56
+ORD-2013068,CUST-1046,Linda Martinez,APAC,Japan,Osaka,Osaka,Furniture,2023-12-26,2024-01-09,Cancelled,437.79,12,5253.48,240.61,2887.32,2366.16
+ORD-2013143,CUST-1270,Mary Anderson,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Office Supplies,2024-03-03,2024-03-14,Delivered,394.11,26,10246.86,300.83,7821.58,2425.28
+ORD-2013110,CUST-1228,Robert Brown,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Electronics,2024-03-31,2024-04-03,Cancelled,96.25,29,2791.25,74.77,2168.33,622.92
+ORD-2013118,CUST-1905,Joseph Jones,LATAM,Mexico,Nuevo León,Monterrey,Software,2024-04-12,2024-04-21,Processing,656.26,26,17062.76,441.07,11467.82,5594.94
+ORD-2013013,CUST-1692,Sarah Williams,APAC,Japan,Tokyo,Tokyo,Furniture,2024-04-12,2024-04-26,Shipped,769.21,3,2307.63,602.37,1807.11,500.52
+ORD-2013028,CUST-1269,Charles Wilson,APAC,India,Maharashtra,Pune,Software,2024-05-17,2024-05-22,Delivered,330.88,10,3308.8,214.9,2149.0,1159.8
+ORD-2013067,CUST-1367,Barbara Martin,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Furniture,2024-05-26,2024-06-07,Shipped,231.85,26,6028.1,181.88,4728.88,1299.22
+ORD-2013114,CUST-1650,Barbara Garcia,APAC,Japan,Tokyo,Tokyo,Electronics,2024-05-28,2024-06-03,Delivered,257.46,7,1802.22,142.58,998.06,804.16
+ORD-2013000,CUST-1271,Robert Davis,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2024-06-06,2024-06-14,Shipped,690.97,5,3454.85,471.48,2357.4,1097.45
+ORD-2013172,CUST-1030,John Miller,LATAM,Brazil,Rio de Janeiro,Rio de Janeiro,Software,2024-07-06,2024-07-13,Shipped,453.66,22,9980.52,346.19,7616.18,2364.34
+ORD-2013147,CUST-1591,Michael Williams,APAC,Japan,Tokyo,Tokyo,Software,2024-07-18,2024-07-26,Delivered,405.44,3,1216.32,334.63,1003.89,212.43
+ORD-2013119,CUST-1270,Mary Anderson,NA,Canada,British Columbia,Vancouver,Electronics,2024-07-28,2024-08-11,Delivered,80.84,6,485.04,42.26,253.56,231.48
+ORD-2013064,CUST-1216,Charles Hernandez,LATAM,Mexico,Jalisco,Guadalajara,Software,2024-08-18,2024-08-24,Cancelled,611.59,7,4281.13,318.13,2226.91,2054.22
+ORD-2013170,CUST-1217,Jessica Gonzalez,LATAM,Brazil,São Paulo,São Paulo,Office Supplies,2024-10-14,2024-10-22,Shipped,735.04,4,2940.16,314.44,1257.76,1682.4
+ORD-2013001,CUST-1623,Jennifer Moore,NA,Canada,British Columbia,Victoria,Electronics,2024-11-13,2024-11-18,Shipped,550.14,18,9902.52,405.95,7307.1,2595.42
+ORD-2013134,CUST-1389,William Anderson,APAC,Australia,New South Wales,Sydney,Software,2024-11-16,2024-11-22,Delivered,524.91,8,4199.28,436.85,3494.8,704.48
+ORD-2013117,CUST-1746,Linda Garcia,APAC,India,Karnataka,Bengaluru,Office Supplies,2024-12-23,2024-12-27,Cancelled,724.62,7,5072.34,409.79,2868.53,2203.81
+ORD-2013025,CUST-1549,Patricia Gonzalez,NA,Canada,British Columbia,Victoria,Electronics,2025-01-10,2025-01-16,Shipped,703.48,9,6331.32,337.92,3041.28,3290.04
+ORD-2013016,CUST-1604,Susan Johnson,NA,Canada,Ontario,Toronto,Office Supplies,2025-01-22,2025-01-26,Processing,747.61,29,21680.69,322.19,9343.51,12337.18
+ORD-2013046,CUST-1473,Richard Rodriguez,EMEA,Germany,Bavaria,Nuremberg,Software,2025-01-26,2025-02-08,Cancelled,356.93,24,8566.32,237.93,5710.32,2856.0
+ORD-2013041,CUST-1686,William Williams,APAC,Japan,Osaka,Osaka,Office Supplies,2025-02-05,2025-02-06,Processing,525.36,25,13134.0,436.46,10911.5,2222.5
+ORD-2013003,CUST-1849,Karen Lopez,EMEA,United Kingdom,Scotland,Edinburgh,Electronics,2025-02-05,2025-02-18,Delivered,398.56,4,1594.24,326.06,1304.24,290.0
+ORD-2013017,CUST-1367,Barbara Martin,APAC,Australia,New South Wales,Sydney,Office Supplies,2025-03-09,2025-03-21,Shipped,539.27,18,9706.86,288.36,5190.48,4516.38
+ORD-2013050,CUST-1849,Karen Lopez,APAC,Australia,Victoria,Melbourne,Office Supplies,2025-05-06,2025-05-12,Cancelled,227.67,9,2049.03,114.69,1032.21,1016.82
+ORD-2013010,CUST-1549,Patricia Gonzalez,LATAM,Brazil,São Paulo,Campinas,Electronics,2025-05-06,2025-05-08,Shipped,775.66,30,23269.8,573.29,17198.7,6071.1
+ORD-2013193,CUST-1228,Robert Brown,NA,Canada,British Columbia,Victoria,Electronics,2025-05-25,2025-06-02,Shipped,566.73,3,1700.19,354.17,1062.51,637.68
+ORD-2013018,CUST-1238,Thomas Martin,EMEA,Germany,Bavaria,Munich,Office Supplies,2025-05-30,2025-06-02,Delivered,489.79,23,11265.17,271.49,6244.27,5020.9
+ORD-2013020,CUST-1270,Mary Anderson,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Electronics,2025-07-31,2025-08-01,Shipped,756.86,23,17407.78,610.61,14044.03,3363.75
+ORD-2013096,CUST-1389,William Anderson,NA,Canada,Ontario,Ottawa,Electronics,2025-08-01,2025-08-14,Delivered,37.73,9,339.57,27.02,243.18,96.39
+ORD-2013107,CUST-1604,Susan Johnson,EMEA,France,Auvergne-Rhône-Alpes,Lyon,Software,2025-08-24,2025-09-06,Delivered,693.43,21,14562.03,376.02,7896.42,6665.61
+ORD-2013014,CUST-1604,Susan Johnson,NA,United States,New York,New York City,Electronics,2025-10-11,2025-10-15,Shipped,344.09,19,6537.71,225.16,4278.04,2259.67
+ORD-2013155,CUST-1269,Charles Wilson,LATAM,Brazil,São Paulo,São Paulo,Electronics,2025-11-04,2025-11-16,Processing,29.87,11,328.57,17.58,193.38,135.19
+ORD-2013173,CUST-1759,William Davis,LATAM,Mexico,Jalisco,Guadalajara,Electronics,2025-12-21,2025-12-23,Cancelled,285.46,3,856.38,183.7,551.1,305.28
