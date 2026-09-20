@@ -1,0 +1,12 @@
+Product,Category,Price,Units sold,Region,Revenue,Dated,,,,,,,
+Desktop,Electronics,1200,100,West,120000,13-05-2023,,,,,,,
+Laptop,Electronics,1000,200,North,200000,10-05-2024,,Aggregation: ,"Take a category, and combine/aggregat the numerical column accordingly",,,,
+Smartphone,Electronics,800,300,East,240000,12-10-2024,,,,,,,
+Tablet,Electronics,500,150,South,75000,11-05-2024,,,,,,,
+Camera,Electronics,400,80,South,32000,19-02-2024,,,,,,,
+Monitor,Accessories,300,400,North,120000,14-12-2024,,,,,,,
+Scanner,Electronics,200,40,North,8000,18-03-2024,,,,,,,
+Printer,Electronics,150,50,West,7500,17-05-2023,,,KPI:,Key Performance Indicators are calculations that sum up some information,,,
+Keyboard,Accessories,50,600,South,30000,15-04-2024,,,,,,,
+Mouse,Accessories,20,700,East,14000,16-05-2024,,,Sum of Revenue,,Count of Product,,Sum of Units sold
+,,,,,,,,,1252500,,10,,2620
