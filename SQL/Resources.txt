@@ -1,0 +1,6 @@
+sql session 2:
+
+https://onecompiler.com/mysql
+https://www.geeksforgeeks.org/sql/how-to-draw-entity-relationship-diagrams/
+https://www.youtube.com/watch?v=7S_tz1z_5bA
+
