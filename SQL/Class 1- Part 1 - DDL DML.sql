@@ -41,7 +41,7 @@ VALUES
 -- chef who makes pizza is out of town
 UPDATE menu_items
 SET in_stock =   TRUE
-WHERE item_id =  1; -- 
+WHERE item_id =  1;
 
 SELECT * FROM menu_items;
 
@@ -98,6 +98,11 @@ VALUES
 	(104, 4, 1); -- 4 , 1
 
 SELECT * FROM order_details;
+
+-- foriegn key
+INSERT INTO order_details (order_id, item_id, quantity)
+VALUES 
+	(104, 7, 3);
 
 -- 
 SELECT COUNT(*) FROM order_details;
